@@ -1,2 +1,2 @@
-# ride-sharing-system-mscs624
-Ride Sharing System in C++ and Smalltalk for MSCS 624.
+# ride-sharing-system-mscs632
+Ride Sharing System in C++ and Smalltalk for MSCS 632.
